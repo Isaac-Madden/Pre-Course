@@ -1,0 +1,16 @@
+Here's a random file i have created to practice using GitHub for source control
+
+I'm guessing i'll need to add some further changes later, so i'll make a list of the planets below:
+
+1. Mercury
+2. Venus
+3. Earth
+4. Mars
+5. Saturn
+6. Pluto
+7. Uranus
+8. Jupiter
+
+Sure i'll have missed a few and got them in a wrong order, this is my first attempt!
+
+Done. Isaac.
