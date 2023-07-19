@@ -3,9 +3,9 @@ Here's a random file i have created to practice using GitHub for source control
 I'm guessing i'll need to add some further changes later, so i'll make a list of the planets below:
 
 1. Mercury
-2. Venus
-3. Earth
-4. Mars
+2. removed
+3. removed
+4. removed
 5. Saturn
 6. Pluto
 7. Uranus
@@ -14,6 +14,11 @@ I'm guessing i'll need to add some further changes later, so i'll make a list of
 10. International Space Station
 11. Planet GIT
 12. The comGIT (comet?) is coming!!
+13. Venus
+14. Earth
+15. Mars
+
+Build a rockGIT boys! (these puns are getting worse...)
 
 Sure i'll have missed a few and got them in a wrong order, this is my first attempt!
 
