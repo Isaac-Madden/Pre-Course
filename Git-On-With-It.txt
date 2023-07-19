@@ -7,8 +7,8 @@ I'm guessing i'll need to add some further changes later, so i'll make a list of
 3. removed
 4. removed
 5. Saturn
-6. Pluto
-7. Uranus
+6. 
+7. 
 8. Jupiter
 9. Moon
 10. International Space Station
@@ -17,9 +17,16 @@ I'm guessing i'll need to add some further changes later, so i'll make a list of
 13. Venus
 14. Earth
 15. Mars
+16. Running out of things to write now...
+17. GIT... the final frontier...
+
+18. Apollo
+19. Voyager
+20. Pathfinder
+21. Gemini
 
 Build a rockGIT boys! (these puns are getting worse...)
 
-Sure i'll have missed a few and got them in a wrong order, this is my first attempt!
+This is my 1000th attempt!
 
 Done. Isaac.
