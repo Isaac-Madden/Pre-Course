@@ -7,8 +7,8 @@ I'm guessing i'll need to add some further changes later, so i'll make a list of
 3. removed
 4. removed
 5. Saturn
-6. Pluto
-7. Uranus
+6. 
+7. 
 8. Jupiter
 9. Moon
 10. International Space Station
