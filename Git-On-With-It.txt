@@ -15,8 +15,6 @@ I'm guessing i'll need to add some further changes later, so i'll make a list of
 11. Planet GIT
 12. The comGIT (comet?) is coming!!
 13. Venus
-14. Earth
-15. Mars
 16. Running out of things to write now...
 17. GIT... the final frontier...
 
